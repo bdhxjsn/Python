@@ -1,0 +1,10 @@
+# name = input("Enter your name :")
+print("Enter your name :")
+name = input()
+print(f"Nice to meet you, {name}")
+lengthName = len(name)
+print(f"The length of you name = {lengthName}")
+print("Enter you Age :")
+age = int(input())
+ageIncBy1 = int(age) + 1
+print(f"You are going to be {ageIncBy1} next year !!")

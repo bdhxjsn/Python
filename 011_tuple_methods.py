@@ -1,0 +1,6 @@
+Tuple = (1, 2, 3, "YO! YO! YO!","...", "What's up biatch")
+number_tuple = (1, 12, 45, 89, 26, 45, 25, 33, 69)
+# number_tuple_count = number_tuple.count(45)
+# print(number_tuple_count)
+index_tuple = Tuple.index("...")
+print(index_tuple)
