@@ -1,4 +1,5 @@
 _age = int(input("Kindly, Enter you age --> "))
+# there can be multiple IF statement. :)
 
 if _age < 18 and _age > 0 : #Here 'and' is OPERATOR
     print("!NOT__ALLOWED!")
