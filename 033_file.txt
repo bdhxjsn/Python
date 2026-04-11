@@ -1,0 +1,1 @@
+This text is written in this file by using python script :)
